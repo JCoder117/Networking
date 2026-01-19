@@ -8,11 +8,11 @@ Utilized Cisco Packet Tracer to create simple and complex networks. This would i
 <br />
 
 
-<h2>LEnviornments Used</h2>
+<h2>Enviornments Used</h2>
 
 - <b>Cisco Packet Tracer</b> 
 
-<h2>Program walk-through vlans:</h2>
+<h2>Program walk-through:</h2>
 
 <p align="center">
 PC1 pinging PC2: <br/>
