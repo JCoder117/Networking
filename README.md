@@ -15,20 +15,20 @@ Utilized Cisco Packet Tracer to create simple and complex networks. This would i
 <h2>Program walk-through vlans:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="" height="80%" width="80%"/>
+PC1 pinging PC2: <br/>
+<img src="Vlan 1 Lab ping PC 1 to PC2.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="" height="80%" width="80%"/>
+PC1 pinging PC3:  <br/>
+<img src="Vlan 1 Lab ping PC 1 to PC3.png" height="80%" width="80%"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="" height="80%" width="80%"/>
+PC1 Pinging PC4: <br/>
+<img src="Vlan 1 Lab ping PC 1 to PC4.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="" height="80%" width="80%"/>
+Pinging from PC1 through router displaying separation:  <br/>
+<img src="Vlan Router Picture.png" height="80%" width="80%"/>
 <br />
 <br />
 </p>
