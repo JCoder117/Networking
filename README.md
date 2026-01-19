@@ -3,19 +3,16 @@
 
 <h2>Description</h2>
 
+Utilized Cisco Packet Tracer to create simple and complex networks. This would include devices, switches, routers and firewalls while utilizing the CLI (command line interface). Implementing default gateways, DHCP, vlans, static configurations and other protocls.
+
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>LEnviornments Used</h2>
 
 - <b>Cisco Packet Tracer</b> 
 
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Program walk-through vlans:</h2>
 
 <p align="center">
 Launch the utility: <br/>
