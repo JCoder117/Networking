@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 
-Utilized Cisco Packet Tracer to create simple and complex networks. This would include devices, switches, routers and firewalls while utilizing the CLI (command line interface). Implementing default gateways, DHCP, vlans, static configurations and other protocls.
+Utilized Cisco Packet Tracer to create simple and complex networks. This would include devices, switches, routers and firewalls while utilizing the CLI (command line interface) and Command Prompt. Implementing default gateways, DHCP, vlans, static configurations and other protocls.
 
 <br />
 
